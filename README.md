@@ -20,4 +20,25 @@ We maken gebruik van PHP voor de back-bone en MySQL voor de database.
 Een goede mappen structuur is cruciaal.
 
 ## Ontwerp database
-Tabellen: Users, Activities, etc...
+Tabellen: Users, Activities, ActivityType, PlannedActivities
+Users:
+- email
+- hashed pw
+- authtoken
+- name
+- age
+- gender
+
+Activities:
+- name
+- type
+
+ActivityType:
+- name
+
+PlannedActivities:
+- activityName
+- data
+- amountOfAttendees
+
+  
