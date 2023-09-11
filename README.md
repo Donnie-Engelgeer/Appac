@@ -9,3 +9,7 @@ Er zal een wireframe moeten worden gemaakt. Dit betekent dus een pagina zonder i
 
 ## Ontwerp back-bone
 We maken gebruik van PHP voor de back-bone en MySQL voor de database.
+Een goede mappen structuur is cruciaal.
+
+## Ontwerp database
+Tabellen: Users, Activities, etc...
