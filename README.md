@@ -1,6 +1,6 @@
 Video link voor info: https://www.youtube.com/watch?v=KZ4BLU8Y5yI
 
-discord server voor project: https://discord.gg/tVaGDw9H
+Discord server voor project: https://discord.gg/tVaGDw9H
 
 De Figma: https://www.figma.com/file/SUP8AY7WrLGvFsNT421k0Q/Untitled?type=design&node-id=0%3A1&mode=design&t=yGJxwlLHO9HCx2In-1
 
